@@ -40,7 +40,7 @@
 </details>
 <br>
 
-### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> [Running a project in Jenkins](https://jenkins.autotests.cloud/job/asantalov_diplom_api/)
+### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> [Running a project in Jenkins](https://jenkins.autotests.cloud/job/user/)
 ##### Clicking on "Build Now" will start building the tests and running them on the Jenkins server.
 ![Jenkins_run](/images/run.jpg)
 
@@ -68,7 +68,7 @@ https://user-images.githubusercontent.com/87572795/228053887-4dfc4ce6-4ea3-478f-
 
 ![tests](images/testOps.jpg)
 
-### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> [Jira integration](https://jira.autotests.cloud/browse/HOMEWORK-611)
+### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> [Jira integration](https://jira.autotests.cloud/browse/HOMEWORK)
 ##### By setting up integration with Jira through Allure TestOps, you can forward the result of passing tests and a list of test cases from Allure to a ticket
 
 ![Jira](images/jira.jpg)
