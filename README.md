@@ -40,7 +40,7 @@
 </details>
 <br>
 
-### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> [Running a project in Jenkins]([https://jenkins.autotests.cloud/job/user/](https://jenkins.autotests.cloud/job/qaguru_diploma_api/))
+### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> [Running a project in Jenkins](https://jenkins.autotests.cloud/job/qaguru_diploma_api/)
 ##### Clicking on "Build Now" will start building the tests and running them on the Jenkins server.
 ![Jenkins_run](/images/run.jpg)
 
