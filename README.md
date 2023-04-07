@@ -73,9 +73,3 @@ https://user-images.githubusercontent.com/87572795/228053887-4dfc4ce6-4ea3-478f-
 
 ![Jira](images/jira.jpg)
 
-
-### <img width="3%" title="Telegram" src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png"> Integration with Telegram
-##### After passing the tests, Telegram bot receives a message with a schedule and some information about the tests.
-
-![Telegram](images/telega.jpg)
-
